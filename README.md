@@ -1,5 +1,7 @@
 # Predict-Yoruba-Hymn
-This project was inspired by [Wuraola Oyewusi](https://github.com/WuraolaOyewusi) by using a transformer.
+This project was inspired by [Wuraola Oyewusi](https://github.com/WuraolaOyewusi).
+
+This model uses transformer to generate text for 10 popular hymns written in yoruba language with their proper tone marks.
 
 ## Original the notebooks
 
